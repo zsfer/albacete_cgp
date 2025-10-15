@@ -72,36 +72,6 @@ MonoBehaviour:
     - model: {fileID: 8926484042661618086}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661618060}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618067}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618074}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618077}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618080}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618101}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618104}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618106}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618108}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661618127}
-      id: 0
-      isStickyNote: 0
   stickyNoteInfos: []
   categories: []
   uiBounds:
@@ -4435,7 +4405,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.Vector, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"vector":{"x":0.0,"y":-2.0,"z":0.0}}'
+      m_SerializableObject: '{"vector":{"x":0.0,"y":0.0,"z":0.0}}'
     m_Space: -1
   m_Property:
     name: Force
